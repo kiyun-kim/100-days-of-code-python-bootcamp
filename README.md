@@ -1,4 +1,4 @@
-# 🚀 Python Bootcamp
+# 🚀 100 Days of Code - Python Pro Bootcamp
 
 Hello there!
 
