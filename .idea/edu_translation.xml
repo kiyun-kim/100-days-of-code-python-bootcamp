@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="structureTranslation">
+      <map>
+        <entry key="Korean">
+          <value>
+            <map>
+              <entry key="1044169934" value="3단계  " />
+              <entry key="1112857690" value="데이터 타입  " />
+              <entry key="1178211071" value="6일차  " />
+              <entry key="1179865809" value="변수 이름 지정  " />
+              <entry key="1199998776" value="5단계  " />
+              <entry key="1206289300" value="2단계  " />
+              <entry key="1235620065" value="3일차  " />
+              <entry key="1277708657" value="블록 범위  " />
+              <entry key="1298813328" value="오류 수정하기  " />
+              <entry key="1304427684" value="나머지 날들은 어디에 있나요  " />
+              <entry key="1307993871" value="디버거 사용하기  " />
+              <entry key="1322657598" value="11일차  " />
+              <entry key="1336938375" value="다중 반환 값  " />
+              <entry key="1407599981" value="12일차  " />
+              <entry key="1500767241" value="7일차  " />
+              <entry key="1517941988" value="Range와 함께 사용하는 For 루프  " />
+              <entry key="1521411200" value="밴드 이름 생성기 프로젝트  " />
+              <entry key="1566856357" value="Print 사용하기  " />
+              <entry key="1592611158" value="나머지 (Modulo)  " />
+              <entry key="1606163007" value="팁 계산기 프로젝트  " />
+              <entry key="1639961942" value="중첩 및 Elif  " />
+              <entry key="1719245063" value="높거나 낮은 프로젝트  " />
+              <entry key="1720631818" value="문제를 설명하세요  " />
+              <entry key="1730117572" value="문자열 조작  " />
+              <entry key="1744300585" value="커피 머신 프로젝트  " />
+              <entry key="17794001" value="뱅커 룰렛  " />
+              <entry key="17794002" value="IndexError  " />
+              <entry key="17794003" value="리스트  " />
+              <entry key="17794004" value="랜덤 모듈  " />
+              <entry key="17794005" value="가위 바위 보  " />
+              <entry key="17794006" value="함수  " />
+              <entry key="17794007" value="For Loops  " />
+              <entry key="1783099172" value="1일차  " />
+              <entry key="1791388063" value="수학 연산  " />
+              <entry key="1820122666" value="비밀번호 생성기 프로젝트  " />
+              <entry key="1825435284" value="입력이 있는 함수  " />
+              <entry key="1835831684" value="9일차  " />
+              <entry key="1893623829" value="16-100일차  " />
+              <entry key="1902731480" value="네임스페이스와 범위  " />
+              <entry key="1923669322" value="컴퓨터를 실행해 보기  " />
+              <entry key="195716625" value="위치 인자 vs 키워드 인자  " />
+              <entry key="1977144334" value="블라인드 경매 프로젝트  " />
+              <entry key="199568011" value="보물섬 프로젝트  " />
+              <entry key="2019991323" value="Caesar Cipher 1  " />
+              <entry key="2038477174" value="14일차  " />
+              <entry key="2083621760" value="10일차  " />
+              <entry key="2088487643" value="Dcostrings  " />
+              <entry key="2107013760" value="글로벌 변수  " />
+              <entry key="216408927" value="계산기 프로젝트  " />
+              <entry key="283125148" value="입력  " />
+              <entry key="284492507" value="조건문 (If Else)  " />
+              <entry key="342841397" value="논리 연산자  " />
+              <entry key="367561985" value="최고 점수  " />
+              <entry key="373790071" value="5일차  " />
+              <entry key="392892348" value="1단계  " />
+              <entry key="417849496" value="다중 If  " />
+              <entry key="424097809" value="15일차  " />
+              <entry key="476425553" value="블랙잭 프로젝트  " />
+              <entry key="481990002" value="글로벌 상수  " />
+              <entry key="526466484" value="타입 오류, 확인 및 변환  " />
+              <entry key="540859013" value="파이썬 피자  " />
+              <entry key="566117749" value="딕셔너리  " />
+              <entry key="625529494" value="출력  " />
+              <entry key="627596553" value="4단계  " />
+              <entry key="636283032" value="변수  " />
+              <entry key="644805369" value="2일차  " />
+              <entry key="653216157" value="숫자 맞추기 프로젝트  " />
+              <entry key="671285232" value="13일차  " />
+              <entry key="740423759" value="4일차  " />
+              <entry key="785894060" value="버그 재현하기  " />
+              <entry key="796392606" value="출력이 있는 함수  " />
+              <entry key="881809023" value="8일차  " />
+              <entry key="900654030" value="카이사르 암호 3  " />
+              <entry key="915669702" value="Caesar Cipher 2  " />
+              <entry key="925561270" value="중첩 리스트와 딕셔너리  " />
+              <entry key="997111556" value="숫자 조작  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Korean" value="849" />
+      </map>
+    </option>
+  </component>
+</project>
