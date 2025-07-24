@@ -9,16 +9,16 @@ def create_enemy():
     print(new_enemy)
 
 
-# Exercise
+# Exercise - 소수 찾기
 def is_prime(num):
-    if num <= 1:  # 1 이하나 음수는 소수가 아닙니다.
+    if num <= 1:  # 1 이하나 음수는 소수가 아니다.
         return False
-    if num == 2:  # 2는 유일한 짝수 소수입니다. 특별히 처리합니다.
+    if num == 2:  # 2는 유일한 짝수 소수.
         return True
-    if num % 2 == 0:  # 2보다 큰 짝수는 소수가 아닙니다.
+    if num % 2 == 0:  # 2보다 큰 짝수는 소수가 아니다.
         return False
 
-    # 2를 제외한 홀수 약수만 확인하면 됩니다.
+    # 2를 제외한 홀수 약수만 확인
     # num의 제곱근까지만 확인해도 충분합니다. (약수는 항상 쌍으로 존재하므로)
     # 예를 들어 100의 약수가 10이라면 100/10=10. 만약 20이라면 100/20=5. 둘 중 하나는 제곱근 이하에 있습니다.
     # math.sqrt(num) 대신 num // 2 + 1 (또는 num의 절반까지만) 확인해도 괜찮습니다.
@@ -33,4 +33,4 @@ def is_prime(num):
     # 반복문이 끝났는데도 return False가 실행되지 않았다면
     # 이는 'num'이 어떤 약수로도 나누어 떨어지지 않았다는 의미입니다.
     # 따라서 'num'은 소수입니다.
-    return True  # 모든 테스트를 통과하면 소수입니다.
+    return True
